@@ -1,0 +1,11 @@
+C:\Users\Yago\source\repos\Pokedex\PokeApiConnector\bin\Debug\net6.0\PokeApiConnector.deps.json
+C:\Users\Yago\source\repos\Pokedex\PokeApiConnector\bin\Debug\net6.0\PokeApiConnector.dll
+C:\Users\Yago\source\repos\Pokedex\PokeApiConnector\bin\Debug\net6.0\ref\PokeApiConnector.dll
+C:\Users\Yago\source\repos\Pokedex\PokeApiConnector\bin\Debug\net6.0\PokeApiConnector.pdb
+C:\Users\Yago\source\repos\Pokedex\PokeApiConnector\obj\Debug\net6.0\PokeApiConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago\source\repos\Pokedex\PokeApiConnector\obj\Debug\net6.0\PokeApiConnector.AssemblyInfoInputs.cache
+C:\Users\Yago\source\repos\Pokedex\PokeApiConnector\obj\Debug\net6.0\PokeApiConnector.AssemblyInfo.cs
+C:\Users\Yago\source\repos\Pokedex\PokeApiConnector\obj\Debug\net6.0\PokeApiConnector.csproj.CoreCompileInputs.cache
+C:\Users\Yago\source\repos\Pokedex\PokeApiConnector\obj\Debug\net6.0\PokeApiConnector.dll
+C:\Users\Yago\source\repos\Pokedex\PokeApiConnector\obj\Debug\net6.0\ref\PokeApiConnector.dll
+C:\Users\Yago\source\repos\Pokedex\PokeApiConnector\obj\Debug\net6.0\PokeApiConnector.pdb

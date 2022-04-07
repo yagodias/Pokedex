@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e13ae0ae-7897-492f-b01e-7c6e18f82fb9": {
+      "ProjectGuid": "e13ae0ae-7897-492f-b01e-7c6e18f82fb9",
+      "DisplayName": "api",
+      "ColorIndex": 0
+    },
+    "ec21a1f2-cc84-4402-91d0-500fcfc432b2": {
+      "ProjectGuid": "ec21a1f2-cc84-4402-91d0-500fcfc432b2",
+      "DisplayName": "PokeApiConnector",
+      "ColorIndex": 1
+    },
+    "560b6369-2b7a-46d9-bf70-214c3b7e27fe": {
+      "ProjectGuid": "560b6369-2b7a-46d9-bf70-214c3b7e27fe",
+      "DisplayName": "Api.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

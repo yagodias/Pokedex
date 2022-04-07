@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q0qhJ6S1aEQvpfJ4z7c4Aw7Ix4cAK49hPqIxvRqxXNd5mZGjkV8EIo7lyVfy746ldn4wfBi+qKKtSowlZX14Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yago\\source\\repos\\Pokedex\\PokeApiConnector\\PokeApiConnector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yago\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yago\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\Yago\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yago\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yago\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yago\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
